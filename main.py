@@ -1,3 +1,18 @@
+##############################################################################################################
+## TO ALI:                                                                                                  ##
+## ENTER THE FOLLOWING COMMANDS IN YOUR LINUX TERMINAL:                                                     ##                
+##      1. pip install cv2 (if this command returns an error, try this command : pip2 install cv2)          ##
+##      2. pip install numpy                                                                                ##                                                           
+##      3. pip install matplotlib                                                                           ##
+##                                                                                                          ##
+## AFTER ALL THE PACKAGES HAVE BEEN SUCCESFULLY INSTALLED, cd INTO THE DIR YOU HAVE DOWNLOADED MY FILES IN. ##
+## THEN TYPE IN THE FOLLOWING :                                                                             ##
+##      "python main.py"                                                                                    ##
+##      immedietly look into your webcam(without specs, ofcourse)                                           ##
+##      then call me!                                                                                       ##
+##############################################################################################################
+
+
 ##    Stump-based 20x20 frontal eye detector.
 ##    Created by ANONYMOUS (http://umich.edu/~shameem)
 ##
